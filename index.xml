@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>https://bsis1250007.github.io/ash/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 16 Mar 2026 01:55:12 +0530</lastBuildDate>
+    <atom:link href="https://bsis1250007.github.io/ash/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First post </title>
+      <link>https://bsis1250007.github.io/ash/posts/first-post/</link>
+      <pubDate>Mon, 16 Mar 2026 01:55:12 +0530</pubDate>
+      <guid>https://bsis1250007.github.io/ash/posts/first-post/</guid>
+      <description>&lt;p&gt;Hello, my name is sai.&#xA;my  blog will contain my reflection on classroom experience.&#xA;This is my very first class in Becomeing reflective scientist course. We usually encounter many companies that always roll out new decisions, updates and rules. Sometimes they may be affirmative actions.These are not just restricted to private entities but also for governments. Decisions were made should not face black slash, after releasing into the public domains. They  can not be made arbitaritly. We have to build them from the existing data. Existing data could be raw data. In the first spot these data look clumsy, messy and may irritate us.This data has to be refined or filtered.Filtering the data should come as a result of what we are looking at. Often  we use mathematical concepts such as mean, mode and median to help make better decisions.  So far I learned  how to refine the raw data. There is one more aspect we need to be aware of while  scrolling through social media. Often News agencies, attemt trick us, while displaying the data. Thismatical equations.I thought I have to solve them. Then I learned that  using pre-existing codes I have to prin those equations. That I felt something that I have flet something this course is worth learning.  is what I learned in my first class.   My second class was more focused on hands -on experience.Class was divided into random groups, each group almost had four members. Before going into lab work,instructions were clearly mentioned  in the given documents, yet I used to be confused. Despite sharing  work within the group, I still used to take help from my groupmates. Our aim was, for that class, to become comfortable writing wikies.For this to achieve, we learned markdown, how to write headings of different sizes and placing the texts. Assigned topics were read on the weekend and made summary. In the next class, using markdown rules, we made wikies.&#xA;In the next lab class, we learnt about Zettler, a software used to type scientific notations and  mathematical equations.There were two ways to prin them depending where we need them in our output.Initially I got nervous when  I saw mathematics.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
